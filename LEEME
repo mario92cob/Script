@@ -1,0 +1,11 @@
+
+
+Entrar dentro de src/main/java/com.example.scriptGen/Controller/TasasVN
+
+
+Dentro de las clase , ejecutar "TasasVn.main()", seleccionar un archivo Excel con extension .xls
+
+Esto generara un archivo/script de extension .sql
+
+
+
